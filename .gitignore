@@ -1,4 +1,3 @@
 /node_modules
 src/css/*
 !src/css/.gitkeep
-!src/css/icon-font.css
