@@ -6,7 +6,7 @@ This project is an advanced CSS course project focused on building a complex and
 
 ## Live Demo
 
-[![Trillo Website](src/img/hotel-1.jpg)](https://renatotmlima.github.io/advanced-css-trillo/)
+[![Trillo Website](src/img/banner.png)](https://renatotmlima.github.io/advanced-css-trillo/)
 
 Click the image above to view the live demo of the Trillo website.
 
